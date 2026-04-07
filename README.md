@@ -3,7 +3,7 @@
 ## Informations
 - **Matière :** Tests Logiciels
 - **TP :** TP2 – Tests d'intégration avec JUnit 5 et Mockito
-  - **Auteur :** AISSANI Hanane / [Votre GitHub]
+  - **Auteur :** AISSANI Hanane 
 
 ---
 
