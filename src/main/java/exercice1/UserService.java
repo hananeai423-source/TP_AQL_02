@@ -1,0 +1,14 @@
+package exercice1;
+
+public class UserService {
+    private final UserRepository userRepository;
+
+    // Injection de dépendance via le constructeur
+    public UserService(UserRepository userRepository) {
+        this.userRepository = userRepository;
+    }
+
+    public User getUserById(long id) {
+        return userRepository.findUserById(id);
+    }
+}
